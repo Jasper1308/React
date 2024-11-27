@@ -10,7 +10,7 @@ function Header() {
             <div className="container">
                 <div className="al-center d-flex jc-between">
                     <Link to="/"><img src={Logo} /></Link>
-                    <nav>
+                <nav>
                     <ul className='d-flex'>
                         <li><Link to="/">Home</Link></li>
                         <li><Link to="/About">About</Link></li>

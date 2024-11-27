@@ -1,12 +1,12 @@
 import Header from '../components/Header/Header'
 import Footer from "../components/Footer/Footer"
+import Banner from '../components/Banner/Banner'
 
 function About() {
     return (
         <>
             <Header />
-            <h1>ABOUT</h1>
-            <p>subtittle</p>
+            <Banner title="About Us" image="about.svg" />
             <Footer />
         </>
     )

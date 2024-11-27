@@ -70,6 +70,7 @@ p {
   max-width: 1140px;
   position: relative;
   padding: 0 30px;
+  box-sizing: border-box;
 }
 
 .al-center {
