@@ -61,4 +61,8 @@ footer .social-links a {
         max-width: 100%;
         width: 100%;
     }
+    
+    .mobile-fd-column{
+        flex-direction: column;
+      }
 }

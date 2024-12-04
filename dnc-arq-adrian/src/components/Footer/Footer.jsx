@@ -14,7 +14,7 @@ function Footer() {
     return(
         <footer>
             <div className='container'>
-                <div className='d-flex jc-between'>
+                <div className='d-flex jc-between mobile-fd-column'>
                     <div className='footer-logo-col'>
                         <img src={Logo} className='footer-logo'/>
                         <p className='grey-1'>A escola que prepara você para as <br />profissões em alta no mercado de <br />trabalho.</p>
